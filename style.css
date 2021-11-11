@@ -1,0 +1,26 @@
+table{
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 5px;
+}
+th{
+	border: 2px solid black;
+
+}
+.gray{
+	background-color: #808080;
+}
+.whiteyellow{
+	background-color: #DEB887;
+}
+.default{
+	background-color: #8FBC8F
+}
+.yellow{
+	background-color: #BDB76B
+}
+.tabl{
+
+	background-color: #DEB887;
+	height: 20px;
+}
